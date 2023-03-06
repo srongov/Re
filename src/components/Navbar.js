@@ -1,5 +1,8 @@
-export default function Home() {
+
+export default function Navbar() {
     return (
-        <div>Hello World</div>
+        <div className="navbar">
+            <h1>Hello World</h1>
+        </div>
     )
 }
